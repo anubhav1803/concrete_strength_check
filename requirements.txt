@@ -16,7 +16,6 @@ decorator==5.0.5
 defusedxml==0.7.1
 entrypoints==0.3
 flask==1.1.2
-icu==58.2
 idna==2.10
 importlib-metadata==3.10.0
 importlib_metadata==3.10.0
