@@ -27,7 +27,6 @@ itsdangerous==1.1.0
 jedi==0.17.0
 jinja2==2.11.3
 joblib==1.0.1
-jpeg==9b
 jsonify==0.5
 jsonschema==3.2.0
 jupyter==1.0.0
