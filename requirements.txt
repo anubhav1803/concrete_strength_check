@@ -1,6 +1,6 @@
-argon2-cffi @ file:///C:/ci/argon2-cffi_1613038019788/work
+
 async-generator==1.10
-attrs @ file:///tmp/build/80754af9/attrs_1604765588209/work
+
 backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
 bleach @ file:///tmp/build/80754af9/bleach_1612211392645/work
 certifi==2020.12.5
